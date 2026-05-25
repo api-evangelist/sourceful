@@ -1,0 +1,92 @@
+aid: sourceful
+name: Sourceful
+description: >-
+  Sourceful is a Manchester, United Kingdom packaging technology company that
+  began as a sustainable packaging marketplace connecting brands with vetted
+  manufacturers and offering data-driven carbon footprint, life-cycle, and
+  recyclability metrics for every packaging design. Founded in 2020 by Wing
+  Chan and Charlie Bradshaw, the company raised roughly $32M from investors
+  including Index Ventures, Coatue, and Eka Ventures, and grew to over 100
+  employees serving climate-conscious consumer brands. Since 2024–2025
+  Sourceful has pivoted toward AI-powered visual design for packaging,
+  releasing Sourceful 3.0 and Riverflow 1, a proprietary image-editing
+  foundation model marketed as state-of-the-art for design-grade,
+  print-ready packaging artwork. The current product line covers AI logo
+  design, packaging design, AI product photography, image editing, packaging
+  ranges, flavor/variant ranges, brand moodboards, and (announced) product
+  mockups and social ads. Sourceful is ISO 42001 certified for AI management.
+  As of this profile the company does not publish a public developer API,
+  SDK, OpenAPI specification, or open-source GitHub organization for the
+  packaging/design platform, and the original sustainable-packaging
+  marketplace surface and supplier-facing carbon footprint API have been
+  superseded by the AI design product; there is no Sourceful developer
+  portal at this time. The unrelated github.com/sourceful organization
+  belongs to Pony Foo, not this company, and sourceful.energy is a separate
+  distributed-energy-resource platform unrelated to Sourceful Ltd.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Packaging
+  - Sustainable Packaging
+  - Packaging Design
+  - Visual AI
+  - Generative AI
+  - Image Editing
+  - Brand Design
+  - Logo Design
+  - Product Photography
+  - Carbon Footprint
+  - Life Cycle Assessment
+  - Sustainability
+  - Manufacturing
+  - Marketplace
+  - Consumer Brands
+  - ISO 42001
+  - Riverflow
+  - Manchester
+  - United Kingdom
+url: https://raw.githubusercontent.com/api-evangelist/sourceful/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.sourceful.com
+  - type: Pricing
+    url: https://www.sourceful.com/pricing
+  - type: Blog
+    url: https://www.sourceful.com/blog
+  - type: CaseStudies
+    url: https://www.sourceful.com/case-studies
+  - type: Contact
+    url: https://www.sourceful.com/contact
+  - type: Riverflow
+    url: https://www.sourceful.com/riverflow
+  - type: PackagingDesign
+    url: https://www.sourceful.com/packaging-design
+  - type: LogoDesign
+    url: https://www.sourceful.com/logo-design
+  - type: AIPhotoshoot
+    url: https://www.sourceful.com/ai-photoshoot
+  - type: EditImage
+    url: https://www.sourceful.com/edit-image
+  - type: Trustpilot
+    url: https://www.trustpilot.com/review/sourceful.com
+  - type: LinkedIn
+    url: https://uk.linkedin.com/company/sourceful-com
+  - type: Twitter
+    url: https://twitter.com/sourceful_com
+  - type: Instagram
+    url: https://www.instagram.com/sourceful.com
+  - type: Facebook
+    url: https://www.facebook.com/sourceful
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/sourceful
+  - type: PitchBook
+    url: https://pitchbook.com/profiles/company/458715-25
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
