@@ -53,6 +53,10 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/sourceful-trust-center.yml
+  - type: DomainSecurity
+    url: security/sourceful-domain-security.yml
   - type: Website
     url: https://www.sourceful.com
   - type: Pricing
