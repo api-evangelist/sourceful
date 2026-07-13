@@ -2,13 +2,14 @@
   "repo": "sourceful",
   "feeds": [
     {
-      "source": "https://www.sourceful.com/blog",
-      "feed_url": "",
+      "source": "https://www.sourceful.com/pricing",
+      "feed_url": "https://www.sourceful.com/pricing",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 12,
-  "fetched": "2026-06-27T13:12:30Z",
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
